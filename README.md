@@ -1,5 +1,7 @@
 # 🚀 Real-time-data-ingestion-project
 
+### there is the .mp4 file in this project that will make you understand whole project
+
 
 This project demonstrates an automated data ingestion pipeline using **Apache Spark**, **Delta Lake**, and **Faker**. It simulates periodic data ingestion, tracks versioned records, and sends email summaries after each execution.
 
@@ -18,7 +20,7 @@ This project demonstrates an automated data ingestion pipeline using **Apache Sp
 
 ## 🛠️ Tech Stack
 
-- **Apache Spark** (v3.5.0+)
+- **Apache Spark** (v3.4.0+)
 - **Delta Lake** (v2.3+)
 - **Python 3.11**
 - **Faker**
