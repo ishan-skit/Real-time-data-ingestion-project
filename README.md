@@ -31,7 +31,8 @@ This project demonstrates an automated data ingestion pipeline using **Apache Sp
 
 ## 📁 Project Structure
 
-📦 Delta-Pipeline-Project/
+📦 Delta-Pipeline-Project
+/
 ├── delta-tables/ 
 # Delta storage location
 ├── output/
