@@ -32,14 +32,22 @@ This project demonstrates an automated data ingestion pipeline using **Apache Sp
 ## 📁 Project Structure
 
 📦 Delta-Pipeline-Project/
-├── delta-tables/ # Delta storage location
-├── output/ # Optional output/logs
-├── generate_and_append.py # Manual data generation & append
-├── append_with_deltatable_api.py # Delta API usage example
-├── version_tracking.py # Track and retrieve versions
-├── auto_email_summary.py # Standalone email sender
-├── scheduled_append.py # Main automated pipeline script
-├── run_pipeline.bat # Optional runner script (Windows)
+├── delta-tables/ 
+# Delta storage location
+├── output/
+# Optional output/logs
+├── generate_and_append.py 
+# Manual data generation & append
+├── append_with_deltatable_api.py
+# Delta API usage example
+├── version_tracking.py
+# Track and retrieve versions
+├── auto_email_summary.py
+# Standalone email sender
+├── scheduled_append.py 
+# Main automated pipeline script
+├── run_pipeline.bat
+# Optional runner script (Windows)
 
 
 ## ⚙️ Setup Instructions
