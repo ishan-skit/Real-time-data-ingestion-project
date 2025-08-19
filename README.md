@@ -62,7 +62,6 @@ This project demonstrates an automated data ingestion pipeline using **Apache Sp
 
 ### 📦 Install Dependencies
 
-```bash
 pip install pyspark faker delta-spark pytz
 ✅ Make sure your spark-submit includes Delta Lake JARs.
 
