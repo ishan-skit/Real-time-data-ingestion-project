@@ -41,11 +41,6 @@ This project demonstrates an automated data ingestion pipeline using **Apache Sp
 ├── scheduled_append.py # Main automated pipeline script
 ├── run_pipeline.bat # Optional runner script (Windows)
 
-yaml
-Copy
-Edit
-
----
 
 ## ⚙️ Setup Instructions
 
